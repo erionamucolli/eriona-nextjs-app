@@ -1,6 +1,6 @@
 FROM node
 
-WORKDIR /usr/eriona-nextjs-app
+WORKDIR /usr/eriona-nextjs-app/
 
 COPY package*.json /usr/eriona-nextjs-app
 
